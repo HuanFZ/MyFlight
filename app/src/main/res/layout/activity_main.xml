@@ -1,0 +1,29 @@
+{
+  "name" : "SMITH, John",
+  "itemList" : [
+    {
+      "titleAuthors" : "Network security / K. Wrightson",
+      "calNum" : "212.37/56",
+      "due" : "26-07-2016",
+      "overdue" : false
+    },
+    {
+      "titleAuthors" : "Analysis / T. Tao",
+      "calNum" : "515/465",
+      "due" : "23-12-2016",
+      "overdue" : false
+    },
+    {
+      "titleAuthors" : "The art of computer programming / D.E. Knuth",
+      "calNum" : "005.1/300",
+      "due" : "25-11-2016",
+      "overdue" : true
+    },
+    {
+      "titleAuthors" : "Python for dummies / S. Maruch and M. Renum",
+      "calNum" : "145.3/57",
+      "due" : "01-10-2016",
+      "overdue" : true
+    }
+  ]
+}

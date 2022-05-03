@@ -1,0 +1,87 @@
+
+	  #competitionPara {
+	    font-size:50px;
+		background-color:#ff000010;
+		padding:30px;
+		text-align:center;
+		border-style:dotted;
+		border-color:red;
+		border-width:5px;
+	  }
+
+	  #headerRow {
+	    font-size:40px;
+		color:navy;
+		background-color:#00000010;
+	  }
+
+	  #teamTable {
+		border-style:dotted;
+		border-collapse:none;
+		border-collapse:collapse;
+	  }
+
+	  #teamTable th {
+	    padding:20px;
+		border-style:dashed;
+		border-color:black;
+		border-width:5px;
+	  }
+
+	  #teamTable td {
+	    padding:20px;
+	    border-style:solid;
+		border-color:grey;
+		border-width:1px;
+	  }
+
+	  .rankingNumber {
+	    font-size:60px;
+		color:maroon;
+	  }
+
+	  .rankColumn {
+	    text-align:right;
+		vertical-align:top;
+	  }
+
+	  .teamColumn {
+	    text-align:center;
+		vertical-align:top;
+	  }
+
+	  .memberColumn {
+	    text-align:left;
+		vertical-align:top;
+	  }
+	  .memberList {
+	    color:green;
+	  }
+
+	  .memberList > li{
+	    padding:10px;
+	  }
+
+	  .leader {
+	    color:purple;
+	  }
+
+	  .oddRow {
+	    background-color:#cc007711;
+	  }
+
+	  .evenRow {
+	    background-color:#55ff7720;
+	  }
+
+	  #word1 {
+	    color:orange;
+	  }
+
+	  #word2 {
+	    color:pink;
+	  }
+
+	  #word3 {
+	    color:blue;
+	  }

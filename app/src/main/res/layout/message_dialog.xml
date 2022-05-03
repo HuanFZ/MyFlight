@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<result ref="10007629P" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="q9.xsd">
+ <contestantId>00025142</contestantId>
+ <examId>KB253DG</examId>
+ <score>156</score>
+ <band>wC</band>
+ <digitalSignature>a720cf8e23bc1256bce2</digitalSignature>
+</result>

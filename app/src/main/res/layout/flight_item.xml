@@ -1,0 +1,47 @@
+<?xml version="1.0" standalone="yes" ?>
+<!DOCTYPE student [
+ <!ELEMENT hotelList (name,stars,review,score)>
+ <!ELEMENT name (#PCDATA)>
+ <!ELEMENT stars (#PCDATA)>
+ <!ELEMENT review (#PCDATA)>
+ <!ELEMENT score (#PCDATA)>
+]>
+
+<hotelList>
+  <hotel>
+    <name>Four Seasons Hotel Sydney</name>
+	<stars>5</stars>
+	<review>3389</review>
+	<score>9.2</score>
+  </hotel>
+  <hotel>
+    <name>Shangri-La Hotel Sydney</name>
+	<stars>5</stars>
+	<review>3874</review>
+	<score>8.8</score>
+  </hotel>
+  <hotel>
+    <name>Hilton Sydney</name>
+	<stars>5</stars>
+	<review>1796</review>
+	<score>8.4</score>
+  </hotel>
+  <hotel>
+    <name>Meriton Suites Kent Street</name>
+	<stars>4</stars>
+	<review>5839</review>
+	<score>8.9</score>
+  </hotel>
+  <hotel>
+    <name>Pier One Sydney Harbour (AC)</name>
+	<stars>5</stars>
+	<review>1573</review>
+	<score>8.7</score>
+  </hotel>
+  <hotel>
+    <name>West Hotel Sydney (CC)</name>
+	<stars>4</stars>
+	<review>1032</review>
+	<score>9.2</score>
+  </hotel>
+</hotelList>

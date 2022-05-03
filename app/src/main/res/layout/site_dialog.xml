@@ -1,0 +1,310 @@
+    <center>
+	  <h1>
+	    <font color="red">Spicy</font> 
+		Recipes
+		<font color="red">&#127798;</font>
+	  </h1>
+	</center>
+	<center>
+	  <table border="1px">
+	    <tr>
+	      <th>Recipe Name</th>
+		  <th>Spicy Level</th>
+		  <th>Ingredients</th>
+		  <th>Cooking Steps</th>
+	    </tr>
+	    <tr>
+	      <td align="center">
+		    <img src="recipe1.png" height="200px" alt="Spicy sausage calzones"/>
+		    <br/><i>Spicy sausage calzones</i>
+		  </td>
+		  <td align="center" width="120">
+		   <font color="red"> &#127798;&#127798;&#127798;&#127798;&#127798;</font>
+		  </td>
+		  <td align="left" width="200">
+		    <ul>
+		      <li>A bowl of flour</li>
+			  <li>Two cups of water</li>
+			  <li>Mexico Chilli</li>
+			  <li>Two eggs</li>
+			  <li>A spoon of salt</li>
+		    </ul>
+		  </td>
+		  <td align="left" width="400">
+		    <ol>
+		      <li>Mix eggs with the flour into a bowl</li>
+		  	  <li>Cut up the Mexico chilli</li>
+			  <li>Put the chilli in the bowl then stir them</li>
+			  <li>Put the bowl into the oven for 20 minutes</li>
+			  <li>Enjoy the meal with two cups of water</li>
+		    </ol>
+		  </td>
+	    </tr>
+	    <tr>
+	      <td align="center">
+		    <img src="recipe3.png" height="200px" alt="Asian meat baguette with spicy cucumber"/>
+		    <br/><i>Asian meat baguette with spicy cucumber</i>
+		  </td>
+		  <td align="center">
+		    <font color="red">&#127798;&#127798;&#127798;</font>
+		  </td>
+		  <td>
+		    <ul>
+		      <li>A bowl of flour</li>
+			  <li>Two cups of water</li>
+			  <li>Sichuan Chilli</li>
+			  <li>Three eggs</li>
+			  <li>Lettuce</li>
+			  <li>A cucumber</li>
+			  <li>Minced meat</li>
+			  <li>Two spoon of salt</li>
+		    </ul>
+		  </td>
+		  <td>
+		    <ol>
+			  <li>Mix two eggs with the flour into a bowl</li>
+			  <li>Put the bowl into the oven for 40 minutes</li>
+			  <li>Cut up the Sichuan chilli and slice the cucumber</li>
+			  <li>Put salt and an egg into the minced meat then cook it</li>
+			  <li>Take the bread out of the bowl</li>
+			  <li>Cut the bread in the middle</li>
+			  <li>Put all ingredients in</li>
+			  <li>Enjoy the meal</li>
+			</ol>
+		  </td>
+	    </tr>
+	    <tr>
+	      <td align="center">
+		    <img src="recipe4.png" height="200px" alt="Spicy prawn linguine"/>
+		    <br/><i>Spicy prawn linguine</i>
+		  </td>
+		  <td align="center">
+		    <font color="red">&#127798;&#127798;&#127798;&#127798;</font>
+		  </td>
+		  <td>
+		    <ul>
+		      <li>Three tomatoes</li>
+			  <li>Italy chilli</li>
+			  <li>Prawns</li>
+			  <li>coriander</li>
+			  <li>Garlics</li>
+			  <li>Two spoon of salt</li>
+			  <li>Linguine</li>
+		    </ul>
+		  </td>
+		  <td>
+		    <ol>
+			  <li>Cut up the tomatoes</li>
+			  <li>Cook the prawn with tomatoes and garlic</li>
+			  <li>Boil the linguine</li>
+			  <li>Put the linguine and cooked prawn into a bowl </li>
+			  <li>Put salt in then stir it</li>
+			  <li>Put chilli and coriander on the top of the meal</li>
+			  <li>Enjoy the meal</li>
+			</ol>
+		  </td>
+	    </tr>
+	    <tr>
+	      <td align="center">
+		    <img src="recipe5.png" height="200px" alt="Spicy tomato rasam soup"/>
+		    <br/><i>Spicy tomato rasam soup</i>
+		  </td>
+		  <td align="center">
+		    <font color="red">&#127798;</font>
+		  </td>
+		  <td>
+		    <ul>
+		      <li>Two tomatoes</li>
+			  <li>South Indian chilli</li>
+			  <li>Indian condiment</li>
+			  <li>Curry</li>
+			  <li>Garlics</li>
+			  <li>Two spoon of salt</li>
+			  <li>coriander</li>
+		    </ul>
+		  </td>
+		  <td>
+		    <ol>
+			  <li>Cut up the tomatoes</li>
+			  <li>Cook the curry with condiment and garlic</li>
+			  <li>Put salt and water in then boil it for 10 minutes</li>
+			  <li>Put Indian chilli and coriander on the top of the meal</li>
+			  <li>Enjoy the meal</li>
+			</ol>
+		  </td>
+	    </tr>
+	    <tr>
+	      <td align="center">
+		    <img src="recipe6.png" height="200px" alt="Prawn laksa"/>
+		    <br/><i>Prawn laksa</i>
+		  </td>
+		  <td align="center">
+		    <font color="red">&#127798;&#127798;</font>
+		  </td>
+		  <td>
+		    <ul>
+		      <li>Four tomatoes</li>
+			  <li>Malaysia chilli</li>
+			  <li>Prawns</li>
+			  <li>Spicy Laksa paste</li>
+			  <li>Noodles</li>
+			  <li>Cucumbers</li>
+			  <li>coriander</li>
+		    </ul>
+		  </td>
+		  <td>
+		    <ol>
+			  <li>Cut up the tomatoes</li>
+			  <li>Cook the prawns with spicy Laksa paste</li>
+			  <li>Put noodles and water in then boil it</li>
+			  <li>Slice cucumbers then put it in</li>
+			  <li>Put cooked prawn in then stir</li>
+			  <li>Put coriander on the top of the meal</li>
+			  <li>Enjoy the meal</li>
+			</ol>
+		  </td>
+	    </tr>
+	    <tr>
+	      <td align="center">
+		    <img src="recipe7.png" height="200px" alt="Spiced squash soup"/>
+		    <br/><i>Spiced squash soup</i>
+		  </td>
+		  <td align="center">
+		   <font color="red">&#127798;</font>
+		  </td>
+		  <td>
+		    <ul>
+		      <li>A big squash</li>
+			  <li>Gingers</li>
+			  <li>Red chillis</li>
+			  <li>Garlics</li>
+			  <li>coriander</li>
+		    </ul>
+		  </td>
+		  <td>
+		    <ol>
+			  <li>Smash the squash, gingers and red chillis</li>
+			  <li>Cook the prawns with spicy Laksa paste</li>
+			  <li>Put water in then boil it for 20 minutes</li>
+			  <li>Put garlics amd coriander on the top of the meal</li>
+			  <li>Enjoy the meal</li>
+			</ol>
+		  </td>
+	    </tr>
+	    <tr>
+	      <td align="center">
+		    <img src="recipe8.png" height="200px" alt="Fast beef curry"/>
+		    <br/><i>Fast beef curry</i>
+		  </td>
+		  <td align="center">
+		   <font color="red">&#127798;&#127798;&#127798;&#127798;</font>
+		  </td>
+		  <td>
+		    <ul>
+		      <li>A piece of beef</li>
+			  <li>Rice</li>
+			  <li>Olive oil</li>
+			  <li>Mexico chilli</li>
+			  <li>Green chilli</li>
+			  <li>A spoon of salt</li>
+		    </ul>
+		  </td>
+		  <td>
+		    <ol>
+			  <li>Slice the beef and cut up chillies</li>
+			  <li>Cook the beef with olive oil</li>
+			  <li>Steam the rice</li>
+			  <li>Mix cooked beef, rice with chillies in a plate</li>
+			  <li>Enjoy the meal</li>
+			</ol>
+		  </td>
+	    </tr>
+	    <tr>
+	      <td align="center">
+		    <img src="recipe9.png" height="200px" alt="Potato and cauliflower curry"/>
+		    <br/><i>Potato and cauliflower curry</i>
+		  </td>
+		  <td align="center">
+		   <font color="red">&#127798;&#127798;&#127798;</font>
+		  </td>
+		  <td>
+		    <ul>
+		      <li>Two potatoes</li>
+			  <li>Curry</li>
+			  <li>Olive oil</li>
+			  <li>Cauliflower</li>
+			  <li>Mexico green chilli</li>
+			  <li>A spoon of salt</li>
+		    </ul>
+		  </td>
+		  <td>
+		    <ol>
+			  <li>Slice the tomatoes</li>
+			  <li>Cook the cauliflower with olive oil</li>
+			  <li>Put the curry and sliced tomatoes in</li>
+			  <li>Mix it up, stir it also</li>
+			  <li>Put the salt on the top</li>
+			  <li>Enjoy the meal</li>
+			</ol>
+		  </td>
+	    <tr>
+	      <td align="center">
+		    <img src="recipe10.png" height="200px" alt="Cauliflower and ginger curry"/>
+		    <br/><i>Cauliflower and ginger curry</i>
+		  </td>
+		  <td align="center">
+		   <font color="red">&#127798;&#127798;&#127798;</font>
+		  </td>
+		  <td>
+		    <ul>
+		      <li>Gingers</li>
+			  <li>Curry</li>
+			  <li>Soy sauce</li>
+			  <li>Cauliflower</li>
+			  <li>Asian chilli</li>
+			  <li>coriander</li>
+		    </ul>
+		  </td>
+		  <td>
+		    <ol>
+			  <li>Smash gingers and chillies</li>
+			  <li>Cook the cauliflower with soy sauce</li>
+			  <li>Put the curry and smashed gingers in</li>
+			  <li>Mix it up, stir it also</li>
+			  <li>Put the coriander on the top</li>
+			  <li>Enjoy the meal</li>
+			</ol>
+		  </td>
+	    </tr>
+	    <tr>
+	      <td align="center">
+		    <img src="recipe2.png" height="200px" alt="Niliem lliws bento"/>
+		    <br/><i>Niliem lliws bento</i>
+		  </td>
+		  <td align="center">
+		   <font color="red">&#127798;&#127798;&#127798;&#127798;&#127798;</font>
+		  </td>
+		  <td>
+		    <ul>
+		      <li>Spicy Kimchi</li>
+			  <li>Rice</li>
+			  <li>A lemon</li>
+			  <li>Soy sauce</li>
+			  <li>Spring rolls</li>
+			  <li>coriander</li>
+			  <li>Salmon</li>
+		    </ul>
+		  </td>
+		  <td>
+		    <ol>
+			  <li>Slice the salmon then cook it with soy sauce</li>
+			  <li>Slice the lemon</li>
+			  <li>Heat spring rolls, cook the rice</li>
+			  <li>Put cooked ingredients all together onto a plate </li>
+			  <li>Enjoy the meal</li>
+			</ol>
+		  </td>
+	    </tr>
+	  </table>
+    </center>
+  
