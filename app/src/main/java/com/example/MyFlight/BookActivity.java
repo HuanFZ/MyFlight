@@ -9,19 +9,27 @@ import android.widget.Button;
 
 public class BookActivity extends AppCompatActivity {
     private Button backBtn;
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_book);
-        backBtn = findViewById(R.id.back_btn);
+    public void creInfoSub() {
+        //Create information submit
 
-        backBtn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent();
-                intent.setClass(BookActivity.this,LogInActivity.class);
-                startActivity(intent);
-            }
-        });
+        //User may input nothing or invalid stuff of space
+        if (nameField.getText().trim().equals("")){
+            throw new IllegalArgumentException("Please enter your name");
+        }
+
+        if (mobileField.getText().trim().equals("")){
+            throw new IllegalArgumentException("Please enter your mobile number");
+        }
+
+        if (addrField.getText().trim().equals("")){
+            throw new IllegalArgumentException("Please enter your address");
+        }
+
+        ownerJFrame.logUser(new String[]{nameField.getText().trim(), (String) genderCom.getSelectedItem(), mobileField.getText().trim(), addrField.getText().trim()});
+        ownerJFrame.checkLogin();//Renew the login status
+        nameField.setText("");
+        genderCom.setSelectedIndex(0);
+        mobileField.setText("");
+        addrField.setText("");
     }
 }
